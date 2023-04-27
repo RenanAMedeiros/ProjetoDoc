@@ -1,0 +1,7 @@
+#DexPara Ações Dentro do arquivo com Pandas
+
+'''
+'r'->Usado Somente para Ler algo
+'w'->Usado somente para escrever algo
+'r+'->usado para ler e escrever algo
+'a'->Usado para acrescentar algo
